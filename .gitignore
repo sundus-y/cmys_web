@@ -30,3 +30,6 @@ config/initializers/secret_token.rb
 
 # Ignore OX hidden files
 /.DS_Store
+
+# Ingnore my config files
+/.config
