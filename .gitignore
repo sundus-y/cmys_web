@@ -34,3 +34,4 @@ config/initializers/secret_token.rb
 
 # Ingnore my config files
 /.config
+/config/database.yml

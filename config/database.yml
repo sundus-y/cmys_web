@@ -23,3 +23,11 @@ production:
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
+
+  adapter: mysql2
+  encoding: utf8
+  database: cmys
+  pool: 5
+  username: admin3bMTmHb
+  password: fhWswa7PJTvn
+  socket: /var/lib/openshift/532cb30e500446dd6800015d/mysql/socket/mysqld.sock
