@@ -28,8 +28,9 @@ config/initializers/secret_token.rb
 /log/*.log
 /tmp
 
-# Ignore OX hidden files
+# Ignore OX and App hidden files
 /.DS_Store
+/.idea
 
 # Ingnore my config files
 /.config
